@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Logger</string>
+    <string name="title">Receipt Claims</string>
+    <string name="capture_receipt">Add Receipt</string>
+    <string name="empty_state">No receipts logged yet.</string>
+    <string name="total_claim_value">Running total: %1$s</string>
+    <string name="enter_amount_title">Enter claim amount</string>
+    <string name="amount_hint">e.g. 12.50</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="receipt_image">Receipt photo</string>
+</resources>
